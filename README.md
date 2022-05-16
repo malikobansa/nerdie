@@ -33,3 +33,25 @@ A Project For Nerdy Eye Company
 )
 
 ```
+
+``` Node 
+ //to access TalentsMobile
+ search [Localhost:3000/talents-mobile](https://localhost:3000/talents-mobile)
+ 
+  //to access TalentsPage
+ search [Localhost:3000/talents-mobile](https://localhost:3000/)
+ 
+```
+
+```Node
+
+npm install react-router-dom
+import {
+  BrowserRouter,
+  Routes,
+  Route,
+  useNavigationType,
+  useLocation,
+} from "react-router-dom";
+
+```
