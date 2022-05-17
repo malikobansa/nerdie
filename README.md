@@ -1,6 +1,13 @@
 # nerdy-eye
 A Project For Nerdy Eye Company
 
+```Javascript
+//Download The Typesceipt react folder called "nerdie.zip" from my Google drive
+
+[Download Nerdie.zip](https://drive.google.com/file/d/1XrBi2lAkmlizspzptynJQAKrT3bPHR6l/view?usp=drivesdk)
+
+
+````
 ```Node
  
 ///run npm run build
